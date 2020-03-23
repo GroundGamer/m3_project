@@ -4,3 +4,4 @@
 /m3_project/m3_project/__init__.py
 /m3_project/app/__init__.py
 .idea
+m3_project/db.sqlite3
