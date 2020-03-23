@@ -8,7 +8,7 @@ setup(
     long_description=open(join(dirname(__file__), 'README.txt')).read(),
     packages=find_packages(),
     install_requires=(
-        'Django==1.11',
+        'Django==1.11.28',
         'm3-builder==1.2.0',
         'm3-core==2.2.22',
         'm3-django-compat==1.9.2',
