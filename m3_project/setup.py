@@ -3,7 +3,7 @@ from os.path import join, dirname
 
 
 setup(
-    name='m3_project',
+    name='m3-project',
     version='1.0.0',
     long_description=open(join(dirname(__file__), 'README.txt')).read(),
     packages=find_packages(),
